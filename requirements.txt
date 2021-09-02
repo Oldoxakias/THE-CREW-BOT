@@ -10,4 +10,4 @@ PyNaCL
 pycparser
 yarl
 discord
-ytdl-core
+ytdl
