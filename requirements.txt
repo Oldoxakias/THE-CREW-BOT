@@ -1,6 +1,5 @@
 discord.py
 python-dotenv
-discord[voice].py
 youtube-dl 
 ffmpeg
 ffprobe
