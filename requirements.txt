@@ -6,3 +6,4 @@ ffprobe
 yarl
 async-timeout
 async
+PyNaCL
