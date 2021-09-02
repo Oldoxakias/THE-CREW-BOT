@@ -10,6 +10,5 @@ PyNaCL
 pycparser
 yarl
 discord
-dotenv-python
 ffmpeg-static
 ytdl-core
