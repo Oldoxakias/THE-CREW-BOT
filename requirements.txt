@@ -7,3 +7,9 @@ yarl
 async-timeout
 async
 PyNaCL
+pycparser
+yarl
+discord
+dotenv-python
+ffmpeg-static
+ytdl-core
