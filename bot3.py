@@ -894,4 +894,4 @@ async def deladminrole(ctx, role_id=None):
 
 
 
-bot.run('ODgzMjg2NzcxNDc4MTkyMTY4.YTHu6A.TJLsxWaA0qCx7dkSR9nCGpAIdg0')
+bot.run('ODgyOTAyNzU2Njc4MDQ5ODcy.YTCJRA.nbFYS0Eupeb0e_6WxTF985UFaI8')
